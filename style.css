@@ -1,0 +1,141 @@
+
+
+
+html{
+    background-color: black;
+    color: white;
+    padding-left: 58px;
+    padding-top: 35px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+body{
+    margin: 0px;
+    margin-bottom: 70px;
+
+}
+
+h5{
+    font-style: normal;
+    font-weight: 100;
+  font-size: 20px;
+  line-height: 29px;
+
+}
+
+.box{
+    display:flex;
+    flex-flow:row wrap;
+    align-items: center;
+    gap:10px;
+    position: relative;  
+    font-size: 20px; 
+    padding-bottom: 49px; 
+}
+
+
+.pro{
+    position:absolute;
+    padding-left: 20px;
+}
+
+.material-icons{
+  position:absolute;
+  left:150px;
+  text-decoration: none;
+  color:white;
+  
+}
+button{
+    background-color: black;
+    
+}
+
+.cards{
+    display:flex;
+    flex-flow: column wrap;
+    gap:30px;
+    position: relative;
+    padding-bottom: 50px;
+
+}
+
+.card{
+   
+    position: relative;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 18px;
+    
+}
+
+.name0{
+    position:absolute;
+    left:10px;
+}
+
+.name1{
+    position:absolute;
+    left:70px;
+}
+
+.name2{
+    position:absolute;
+    left:230px;
+}
+
+.name3{
+    position:absolute;
+    left:450px;
+}
+
+.filter{
+    background-color: white;
+    text-decoration: none;
+    width:200px;
+    height:50px;
+    
+}
+
+.container{
+    padding-top: 50px;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    gap:100px;
+    padding-bottom: 30px;
+    
+}
+select{
+    background-color: black;
+    color: white;
+    width:20px;
+    border:none;
+}
+
+.add{
+    padding-top: 130px;
+}
+
+.input{
+    background-color: black;
+    border:1px solid white;
+    border-radius: 3px;
+    width: 300px;
+   height: 30px;
+   color: white;
+}
+
+.adduser{
+    
+    background-color: white;
+    text-decoration: none;
+    width:200px;
+    height:50px;
+}
+
+
+
+
+
